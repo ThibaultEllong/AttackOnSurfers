@@ -10,7 +10,7 @@ In this blog post, I will go over the creation process of my game: Attack On Sur
 
 Check out a demo gameplay by clicking on this thumbnail !
 
-[![Watch the video](./public/vlcsnap-2023-10-29-10h47m59s881.png)](https://youtu.be/gg_-t6PEFp8).
+[![Watch the video](./public/vlcsnap-2023-10-29-10h47m59s881.png)](https://youtu.be/gg_-t6PEFp8)
 
 All the code of the game can be read and downloaded [here](https://github.com/ThibaultEllong/AttackOnSurfers/tree/main).
 
