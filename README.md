@@ -58,7 +58,9 @@ The game had to have 4 main components:
 
 To create my character, I went on Adobe's [Mixamo website](https://www.mixamo.com/#/). This free library provides animations and 3D models as well as an automatic rigging tool.
 I selected this archer's model as it fitted the aesthetic I was going for:
+
 ![Image archer](./public/archer.png)
+
 I didn't think too much about its appearance as I just needed it for the programming phase.
 
 I then wrote a script for the basic motion (jumping, running, sliding, changing lane) and animated it accordingly.
