@@ -1,6 +1,8 @@
 # AttackOnSurfers
 A recreation of the Subway Surfer mobile game in the world of Attack on Titans using Unity3D
 
+![Demo Screenshot](./public/vlcsnap-2023-10-29-10h47m59s881.png)
+
 You can find a video demo here: https://www.youtube.com/watch?v=gg_-t6PEFp8&ab_channel=ThibaultEllong
 
 As part of my Augmented & Virtual Reality master's diploma, I had to develop a video game using the game engine Unity, from scratch.
