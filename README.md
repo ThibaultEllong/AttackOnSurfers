@@ -1,18 +1,14 @@
 # AttackOnSurfers
 A recreation of the Subway Surfer mobile game in the world of Attack on Titans using Unity3D
 
-![Demo Screenshot](./public/vlcsnap-2023-10-29-10h47m59s881.png)
+Check out a demo gameplay by clicking on this thumbnail !
 
-You can find a video demo here: https://www.youtube.com/watch?v=gg_-t6PEFp8&ab_channel=ThibaultEllong
+[![Watch the video](./public/vlcsnap-2023-10-29-10h47m59s881.png)](https://youtu.be/gg_-t6PEFp8)
 
 As part of my Augmented & Virtual Reality master's diploma, I had to develop a video game using the game engine Unity, from scratch.
 Without any prior knowledge and as a mostly autonomous project, I had to learn by myself most of the advanced scripting and game mechanic techniques used by Unity in order to create a compelling game.
 
 In this blog post, I will go over the creation process of my game: Attack On Surfers
-
-Check out a demo gameplay by clicking on this thumbnail !
-
-[![Watch the video](./public/vlcsnap-2023-10-29-10h47m59s881.png)](https://youtu.be/gg_-t6PEFp8)
 
 All the code of the game can be read and downloaded [here](https://github.com/ThibaultEllong/AttackOnSurfers/tree/main).
 
@@ -60,9 +56,9 @@ The game had to have 4 main components:
 
 ##### Running Player
 
-To create my character, I went on Adobe's ![Mixamo website](https://www.mixamo.com/#/). This free library provides animations and 3D models as well as an automatic rigging tool.
+To create my character, I went on Adobe's [Mixamo website](https://www.mixamo.com/#/). This free library provides animations and 3D models as well as an automatic rigging tool.
 I selected this archer's model as it fitted the aesthetic I was going for:
-[Image archer](/public/game_unity/archer.png)
+![Image archer](./public/archer.png)
 I didn't think too much about its appearance as I just needed it for the programming phase.
 
 I then wrote a script for the basic motion (jumping, running, sliding, changing lane) and animated it accordingly.
